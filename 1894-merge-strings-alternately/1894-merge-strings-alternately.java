@@ -2,24 +2,24 @@ class Solution {
     StringBuilder result=new StringBuilder();
     public String mergeAlternately(String word1, String word2) {
         int i,a=0,b=0;
-        for(i=0;i<(Math.max(word1.length(),word2.length())*2);i++)
+        int val=Math.min(word1.length(),word2.length());
+        for(i=0;i<val;i++)
         {
-            if(word1.length()>a && i%2==0)
-            {
-                result.append(word1.charAt(a));
-                a++;
-            }
-            if(word2.length()>b && i%2==1)
-            {
-                result.append(word2.charAt(b));
-                b++;
-            }
-            System.out.println(result);
+            result.append(word1.charAt(i));
+            result.append(word2.charAt(i));
+        }
+        if(word1.length()>i)
+        {
+            result.append(word1.substring(i,word1.length()));
+        }
+        if(word2.length()>i)
+        {
+            result.append(word2.substring(i,word2.length()));
         }
 
         // while(word1.length()>a) {
         //     result.append(word1.charAt(a));
-        //     a++;
+        //     a++;s
         // }
         // while(word2.length()>b) {
         //     result.append(word2.charAt(b));
