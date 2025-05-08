@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0118-pascals-triangle) |
+| [0605-can-place-flowers](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Dynamic Programming
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1146-greatest-common-divisor-of-strings) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
