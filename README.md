@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0118-pascals-triangle) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Dynamic Programming
 |  |
 | ------- |
