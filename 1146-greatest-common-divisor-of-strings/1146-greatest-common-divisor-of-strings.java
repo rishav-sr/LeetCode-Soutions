@@ -1,20 +1,13 @@
 class Solution {
     public String gcdOfStrings(String str1, String str2) {
-       int val= Math.min(str1.length(),str2.length());
-       for(int i=val;i>=1;i--) {
-        if(valid(str1,str2,i))
-        return str1.substring(0,i);
-       } 
-       return "";
-    }
-
-    public boolean valid(String str1,String str2,int k) {
-        int len1=str1.length(),len2=str2.length();
-        if(len1%k>0 && len2%k>0)
-        return false;
-        else {
-            String base=str1.substring(0,k);
-            return str1.replace(base,"").isEmpty() && str2.replace(base,"").isEmpty();
+        String min=str1.length()>str2.length()?str2:str1;
+        String max="";
+        StringBuilder st= new StringBuilder();
+        for(int i=0;i<min.length();i++) {
+            st.append(min.charAt(i));
+            if(str1.replace(st.toString(),"").isEmpty() && str2.replace(st.toString(),"").isEmpty())
+            max=max.length()<st.length()?st.toString():max;
         }
+        return max.length()==0?"":max;
     }
 }
