@@ -8,6 +8,9 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+
+ // There is another way where we can find the mid of LL using slow and fast pointer . and then reverse second part of LL and now keeping adding val of each LL and keep track of max
 class Solution {
     public int pairSum(ListNode head) {
         ListNode temp=head;int count=0,max=0;
