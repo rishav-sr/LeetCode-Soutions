@@ -33,7 +33,5 @@ class Solution {
         count++;
         solve(root.left,targetSum,curSum);
         solve(root.right,targetSum,curSum);
-        if(curSum>targetSum)
-        return;
     }
 }
