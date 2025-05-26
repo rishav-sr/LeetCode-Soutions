@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0238-product-of-array-except-self) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0056-merge-intervals) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1798-max-number-of-k-sum-pairs) |
