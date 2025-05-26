@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1319-unique-number-of-occurrences](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0649-dota2-senate) |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
