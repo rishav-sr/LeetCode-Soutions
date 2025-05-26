@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0279-perfect-squares) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0279-perfect-squares) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
