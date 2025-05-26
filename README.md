@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0392-is-subsequence) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0392-is-subsequence) |
