@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/2470-removing-stars-from-a-string) |
+| [3451-string-compression-iii](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/3451-string-compression-iii) |
 ## Math
 |  |
 | ------- |
