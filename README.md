@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0213-house-robber-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/0056-merge-intervals) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1777-determine-if-two-strings-are-close](https://github.com/rishav-sr/LeetCode-Soutions/tree/master/1777-determine-if-two-strings-are-close) |
